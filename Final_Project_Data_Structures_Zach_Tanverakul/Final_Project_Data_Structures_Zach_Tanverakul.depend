@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1501231578 source:/home/user/Desktop/Final_Project_Data_Structures_Zach_Tanverakul/main.cpp
+	<iostream>
+	<vector>
+	<climits>
+	<fstream>
+	<sstream>
+	<string>
+	"Quarterback.hpp"
+	"List.hpp"
+
+1501230924 /home/user/Desktop/Final_Project_Data_Structures_Zach_Tanverakul/Quarterback.hpp
+	<iostream>
+	<vector>
+	<climits>
+
+1501232213 source:/home/user/Desktop/Final_Project_Data_Structures_Zach_Tanverakul/Quarterback.cpp
+	"Quarterback.hpp"
+	"List.hpp"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<climits>
+
+1501230924 source:/home/user/Desktop/Final_Project_Data_Structures_Zach_Tanverakul/List.cpp
+	"List.hpp"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1501230924 /home/user/Desktop/Final_Project_Data_Structures_Zach_Tanverakul/List.hpp
+	<iostream>
+	<string>
+
